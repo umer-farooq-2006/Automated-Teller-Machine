@@ -1,0 +1,19 @@
+{
+  "name": "automated-teller-machine_ybr123_",
+  "version": "2.0.0",
+  "description": "This is an Automated Teller Machine (ATM)",
+  "main": "coding.js",
+  "type": "module",
+  "bin": "coding.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Umer Farooq",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.2.19"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
